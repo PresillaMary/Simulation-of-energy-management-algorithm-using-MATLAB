@@ -160,7 +160,6 @@ grid on;
 ```
 
 ## OUTPUT
-
 ![WhatsApp Image 2025-09-18 at 10 36 16_4548554a](https://github.com/user-attachments/assets/f260f73c-1319-4d0c-bde0-a34c15daf227)
 
 
