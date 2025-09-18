@@ -161,7 +161,8 @@ grid on;
 
 ## OUTPUT
 
-![WhatsApp Image 2025-09-18 at 10 36 16_0642e177](https://github.com/user-attachments/assets/fdc49bb1-f8d5-463e-b8df-1dab03129f44)
+![WhatsApp Image 2025-09-18 at 10 36 16_4548554a](https://github.com/user-attachments/assets/f260f73c-1319-4d0c-bde0-a34c15daf227)
+
 
 ## RESULT
   Thus, the energy management algorithm was successfully simulated in MATLAB, showing effective utilization of PV and battery to reduce grid power consumption. The results confirm reduced grid import and improved system efficiency.
